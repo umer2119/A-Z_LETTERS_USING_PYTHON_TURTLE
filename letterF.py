@@ -1,0 +1,26 @@
+from turtle import *
+
+def letter6():
+    pendown()
+    forward(80)
+    left(180)
+    penup()
+    forward(80)
+    pendown()
+    left(90)
+    forward(120)
+    left(180)
+    penup()
+    forward(60)
+    right(90)
+    pendown()
+    forward(70)
+    penup()
+    forward(10)
+    left(90)
+    forward(60)
+    right(90)
+    forward(40)
+
+# letter6()
+# done()

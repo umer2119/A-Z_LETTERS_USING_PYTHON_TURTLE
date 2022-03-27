@@ -1,0 +1,30 @@
+from turtle import *
+
+def letter5():
+    pendown()
+    forward(80)
+    left(180)
+    penup()
+    forward(80)
+    pendown()
+    left(90)
+    forward(120)
+    left(90)
+    forward(80)
+    penup()
+    left(90)
+    forward(60)
+    left(90)
+    penup()
+    forward(20)
+    pendown()
+    forward(60)
+    penup()
+    right(90)
+    forward(60)
+    right(90)
+    forward(120)
+
+
+# letter5()
+# done()
